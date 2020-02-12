@@ -1,2 +1,2 @@
-Libraray Detection
+Android Library Detection
 ====
