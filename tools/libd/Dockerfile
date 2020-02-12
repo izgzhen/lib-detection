@@ -1,10 +1,10 @@
 FROM openjdk:8
+RUN apt-get update
+RUN apt-get install -y wget unzip python-pip git
+
 COPY . /usr/src/myapp
 WORKDIR /usr/src/myapp
 ENV PATH="/usr/src/myapp/apktool/:${PATH}"
-
-RUN apt-get update
-RUN apt-get install -y wget unzip python-pip git
 
 RUN git clone https://github.com/izgzhen/apktool
 

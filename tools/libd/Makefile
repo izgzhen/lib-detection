@@ -1,8 +1,11 @@
+DOCKER := docker run -v $(shell realpath ../examples):/usr/src/examples -v $(PWD):/mnt -it --rm --name running-libd libd
+
 build:
 	docker build -t libd .
 
 run-bash:
-	docker run -v $(shell realpath ../examples):/usr/src/examples -it --rm --name running-libd libd bash
+	$(DOCKER) bash
 
-run:
-	docker run -v $(shell realpath ../examples):/usr/src/examples -it --rm --name running-libd libd ./runScript.sh ../examples
+run: build
+	mkdir -p output
+	$(DOCKER) ./runScript.sh ../examples
