@@ -1,10 +1,21 @@
-com/unity3d/Plugin: {com/unity3d/Plugin, d13818f03d2a2a0045b8028100a2ad57}
-org/codehaus/jackson: {org/codehaus/jackson, 48685651781b804894e17c485e8fe75e}
-org/apache/commons: {org/apache/commons, bbb1d6b2c3a58f7424c0e29b838c8347}
-com/openfeint: {com/openfeint, 13560981d11bd08affce2d28c350f9b4}
-com/google/api: {com/google/api, 4f63c255271ffb508c5ca9cf9919ebef}
-com/prime31: {com/prime31, d0c6d944acfb0ba8961c176e2e1374e7}
-com/google/ads: {com/google/ads, 5aaee8ceecaa593e187d967e90a442d3}
-com/android/vending: {com/android/vending, d94708a7efcb23aa2425e02f06b4106c}
-com/unity3d/player: {com/unity3d/player, a19bce8ba5480ef2ec010fe646e706da}
-org/fmod: {org/fmod, f9715cbdda873594a5fa98d5a18216bc}
+android/support/v7: {android/support/v7, f662061ce9ed778fd92862d0240bb3c8}
+com/startapp/android: {com/startapp/android, 0424b68caec8ca0dcaad2a556e1e2ae0}
+com/amazon/device: {[com/amazon/device, com/amazon/android, com/amazon/venezia, ], 2ae37166e43e2005293497ba66141cb4}
+com/game/supermarion: {com/game/supermarion, 6c700239858e00c163a619a98bfb513d}
+com/google/unity: {com/google/unity, dcea7b4a30c6efa008d4daf02d46d9b5}
+com/google/example: {com/google/example, 6c700239858e00c163a619a98bfb513d}
+bolts: {bolts, 0c93f7d3e7ae9db6312948088a921ccb}
+com/nokia/payment: {com/nokia/payment, 940ed79cba2d8ac21dfa480b31f2bf35}
+org/onepf/openiab: {[org/onepf/openiab, org/onepf/oms, ], 74845324836aa2de7cd0a3177ff7b9cc}
+com/unity3d/ads: {com/unity3d/ads, 1d972a196ca7d0bb7943d3b0052b7169}
+com/skubit/android: {com/skubit/android, 6d49edea73e11171f1a37d93f8ba063d}
+android/support/annotation: {android/support/annotation, b0adb10c115d59b33d39026729be4fc6}
+com/google/firebase: {[com/google/firebase, com/google/android, com/google/ads, com/google/games, ], 8a1a72a8b29f30209c613a567e1f2ef9}
+com/sec/android: {com/sec/android, f4c68fcfff321736093f4e5f71853a1d}
+android/app: {android/app, acf7ef943fdeb3cbfed8dd0d8f584731}
+com/facebook: {com/facebook, 19e32ae6349d03556d7e6923b06dd010}
+bitter/jnibridge: {bitter/jnibridge, 5cd95853b543fab9fc914304141b864e}
+com/unity3d/player: {com/unity3d/player, 4b226c1d11ba6e893c03bfa140f50a95}
+org/fmod: {org/fmod, 4c7b9d3836960dbd3b03b6fe6e66c185}
+com/onesignal: {com/onesignal, 0d1dca212f73bcd6410e8c5c56da137c}
+com/android/vending: {com/android/vending, f28bb159c571fbed0f62f691a69599df}
