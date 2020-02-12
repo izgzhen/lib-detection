@@ -1,0 +1,10 @@
+com/unity3d/Plugin: {com/unity3d/Plugin, d13818f03d2a2a0045b8028100a2ad57}
+org/codehaus/jackson: {org/codehaus/jackson, 48685651781b804894e17c485e8fe75e}
+org/apache/commons: {org/apache/commons, bbb1d6b2c3a58f7424c0e29b838c8347}
+com/openfeint: {com/openfeint, 13560981d11bd08affce2d28c350f9b4}
+com/google/api: {com/google/api, 4f63c255271ffb508c5ca9cf9919ebef}
+com/prime31: {com/prime31, d0c6d944acfb0ba8961c176e2e1374e7}
+com/google/ads: {com/google/ads, 5aaee8ceecaa593e187d967e90a442d3}
+com/android/vending: {com/android/vending, d94708a7efcb23aa2425e02f06b4106c}
+com/unity3d/player: {com/unity3d/player, a19bce8ba5480ef2ec010fe646e706da}
+org/fmod: {org/fmod, f9715cbdda873594a5fa98d5a18216bc}
