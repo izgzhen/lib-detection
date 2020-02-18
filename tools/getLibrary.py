@@ -44,16 +44,15 @@ def findIntersection(libdRes, libradarRes, word_to_frequency):
     libradarRes_leftOut = [value for value in libradarRes if value not in res] 
 
     print("The intersections are: ")
-    for library in res:
-        print(library + ', the relative frequency is ' + str(word_to_frequency[library]))
-    
+    print(res)
     print("The libraries that are not in the intersection for libd are: ")
     for library in libdRes_leftOut:
         print(library + ', the relative frequency is ' + str(word_to_frequency[library]))
-    
+    print("\n")
     print("The libraries that are not in the intersection for libdradarRes are: ")
     for library in libradarRes_leftOut:
         print(library + ', the relative frequency is ' + str(word_to_frequency[library]))
+    print("\n")
     return res
 
 
